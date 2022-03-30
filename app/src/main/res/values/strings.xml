@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Interactive App</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="_0">1</string>
+    <string name="order">ORDER</string>
+    <string name="price">PRICE (₹20 per Coffee)</string>
+    <string name="_pricing">₹0</string>
+    <string name="topping">TOPPINGS</string>
+    <string name="choco_chips">Choco Chips</string>
+    <string name="whipped_cream">Whipped Cream</string>
+</resources>
